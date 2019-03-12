@@ -1,0 +1,17 @@
+#image_nasa {
+  height: 600px;
+  width: 600px;
+  display: block;
+  margin: auto;
+}
+
+strong {
+  text-decoration: underline;
+}
+
+.youtubevid {
+  width: 840px;
+  height: 630px;
+  display: block;
+  margin: auto;
+}
